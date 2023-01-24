@@ -31,7 +31,7 @@ print("rows", len(df.axes[1]))
 ```
 
 ## OUTPUT:
-![csv](/csv.png)
+![csv](./csv.png)
 
 ## RESULT:
 A python program to read data from CSV files has been created successfully.
